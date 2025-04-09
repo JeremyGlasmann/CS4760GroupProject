@@ -1,2 +1,2 @@
 # CS4760GroupProject
-Group Project for CS 4760 Capstone.
+This is a repository for my CS 4760 Capstone Group Project, it was created in the Razor Pages .Net Framework using HTML, .css, C#, and MySQL database to store all of the data needed to get the page running. I helped with database handling, model creation and maintaining, page functionality and creation, file submission and downloadablility, user password encryption, and Unit Tests. 
